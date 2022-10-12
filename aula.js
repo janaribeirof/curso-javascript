@@ -24,11 +24,3 @@ let pessoa = {
  console.log(familia[2]);
 
  
-
-//Operadores Lógicos
-/* 
-Aritméticos (mateméticos)
-Atribuição
-Comparação
-Lógicos
-Bitwise */
